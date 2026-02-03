@@ -2,10 +2,6 @@
 
 
 
-<img width="867" height="613" alt="image" src="https://github.com/user-attachments/assets/1cb7c980-6d15-45e5-b826-2d908bb3f325" />
-
-
-<img width="818" height="612" alt="image" src="https://github.com/user-attachments/assets/24cd7366-d6ae-4b17-ab27-482cc1b0da10" />
 
 מה זה בכלל Burp Suite? (המתווך החכם)
 למה Java? התוכנה נכתבה ב-Java כדי שתוכל לרוץ על כל מערכת הפעלה (Windows, Linux, Mac) באותה צורה.
