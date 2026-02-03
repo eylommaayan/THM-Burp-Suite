@@ -6,7 +6,12 @@
 מה זה בכלל Burp Suite? (המתווך החכם)
 למה Java? התוכנה נכתבה ב-Java כדי שתוכל לרוץ על כל מערכת הפעלה (Windows, Linux, Mac) באותה צורה.
 
-איך זה עובד (ה-Proxy)? דמיין שאתה שולח מכתב. בדרך כלל הדוור לוקח אותו ישירות לנמען. Burp הוא "הדוור שפותח את המעטפה". הוא עוצר את המכתב אצלו, מאפשר לך לקרוא מה כתוב, לשנות את התוכן (למשל לשנות מחיר של מוצר מ-100$ ל-1$), ורק אז לסגור ולשלוח.
+איך זה עובד (ה-Proxy)? דמיין שאתה שולח מכתב. בדרך כלל הדוור לוקח אותו ישירות לנמען. Burp הוא "הדוור שפותח את המעטפה". הוא עוצר את המכתב אצלו, מאפשר לך לקרוא מה כתוב, לשנות את התוכן (למשל לשנות מחיר של מוצר מ-100$ ל-1$), ורק אז לסגור ולשלוח
+
+
+<img width="1708" height="941" alt="image" src="https://github.com/user-attachments/assets/24657989-9291-4986-a116-554de60cf092" />
+
+<img width="1707" height="928" alt="image" src="https://github.com/user-attachments/assets/4c760bf0-1731-4c73-814e-9b0c16a96bbb" />.
 
 למה יש גרסאות?
 
@@ -65,8 +70,6 @@ Cookie Jar (משימה 7): העוגיות (Cookies) הן הדרך של האתר 
 Hotkeys: בעולם ה-Pentesting, מהירות היא קריטית. לעבור בין Proxy ל-Repeater עם העכבר לוקח זמן. ללחוץ Ctrl+R זה מיידי.
 
 TLS Certificates (תעודות אבטחה): האתרים היום מוצפנים (HTTPS). כדי ש-Burp יוכל לקרוא את המידע, הוא צריך "לשכנע" את הדפדפן שהוא בטוח. זה נעשה דרך התעודות האלו.
-<img width="1708" height="941" alt="image" src="https://github.com/user-attachments/assets/24657989-9291-4986-a116-554de60cf092" />
 
-<img width="1707" height="928" alt="image" src="https://github.com/user-attachments/assets/4c760bf0-1731-4c73-814e-9b0c16a96bbb" />
 
 <img width="1672" height="743" alt="image" src="https://github.com/user-attachments/assets/57bf02ac-823f-4c14-a821-8eb470eb14cf" />
