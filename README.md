@@ -2,12 +2,15 @@
 # Burp Suite: The Basics - מדריך עברי מלא (THM)
 
 ברוכים הבאים למדריך הלימודי של חדר **Burp Suite Basics**. המטרה של המדריך היא לא רק לתת את הפתרונות, אלא להסביר **איך** המערכת עובדת ו**למה** אנחנו משתמשים בכל כלי.
+<img width="1632" height="856" alt="image" src="https://github.com/user-attachments/assets/6ba3bfa2-01d8-4783-bb98-74eaaf7d445e" />
 
 ---
 
 ## 1. מה זה בכלל Burp Suite? (המתווך החכם)
 
 Burp Suite היא מסגרת עבודה (Framework) מבוססת **Java**. הבחירה ב-Java מאפשרת לה לרוץ בצורה זהה על כל מערכת הפעלה (Windows, Linux, macOS).
+![Uploading image.png…]()
+
 
 ### איך עובד ה-Proxy?
 
