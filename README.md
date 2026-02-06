@@ -79,10 +79,12 @@ Burp Suite היא מסגרת עבודה (Framework) מבוססת **Java**. הב�
 
 ---
 
-#![Uploading image.png…]()
+<img width="969" height="859" alt="{B479F5EB-FCE6-442F-A191-8D7B41612F97}" src="https://github.com/user-attachments/assets/0e9e56a7-9675-4b01-a855-c7a44cb76b20" />
+
 *
 
-9. חיבור הדפדפן באמצעות FoxyProxy
+9. חיבור הדפדפן באמצעות
+10. FoxyProxy
 כדי ש-Burp Suite יוכל "לתפוס" את התנועה מהדפדפן האישי שלך (Firefox), עלינו להגדיר לדפדפן לשלוח את כל המידע דרך ה-Proxy.
 
 למה להשתמש ב-FoxyProxy?
